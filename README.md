@@ -23,7 +23,7 @@ Dex Player is primarily designed for local music playback, providing tools to br
 
 ---
 
-## Features
+# Features
 
 ## Music Library
 
@@ -88,7 +88,7 @@ Dex Player follows a minimalist and expressive design language.
 
 ---
 
-## Technology
+# Technology
 
 Dex Player is built using modern Android development technologies.
 
@@ -102,7 +102,7 @@ Android Media APIs| Audio playback
 
 ---
 
-## Design
+# Design
 
 Dex Player is built around three main ideas:
 
@@ -120,7 +120,7 @@ Colors and visual elements adapt to create a more personalized experience across
 
 ---
 
-## Development
+# Development
 
 Dex Player was designed and developed entirely from a mobile device.
 
@@ -132,7 +132,7 @@ From the initial interface concepts to implementation and testing, Dex Player wa
 
 ---
 
-## Roadmap
+# Roadmap
 
 Dex Player is currently under active development.
 
@@ -148,7 +148,7 @@ Completed
 - [x] Background playback
 - [x] Album artwork
 
-## Planned
+# Planned
 
 - [ ] Improved playlist management
 - [ ] Better lyrics synchronization
@@ -191,7 +191,7 @@ All rights reserved.
 
 ---
 
-## Developer
+# Developer
 
 <p align="center">
   <strong>Dex</strong>
