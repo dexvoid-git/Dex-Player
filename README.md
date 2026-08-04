@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/dex-player-logo.png" width="128" alt="Dex Player">
+  <img src="Assets/dex-player-logo.png" width="128" alt="Dex Player">
 </p>
 
 <h1 align="center">Dex Player</h1>
