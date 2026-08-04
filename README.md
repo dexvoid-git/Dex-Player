@@ -1,4 +1,4 @@
-## Dex Player
+# Dex Player
 
 <p align="center">
   <img src="assets/dex-player-logo.png" width="120" alt="Dex Player Logo">
