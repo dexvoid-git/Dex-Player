@@ -1,111 +1,100 @@
-Dex Player
+## Dex Player
 
-«A minimal and expressive local music player for Android.»
+<p align="center">
+  <img src="assets/dex-player-logo.png" width="120" alt="Dex Player Logo">
+</p><h3 align="center">A minimal and expressive music player for Android.</h3><p align="center">
+  Built with Kotlin and Jetpack Compose.
+</p><p align="center">
+  <a href="#features">Features</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#technology">Technology</a> •
+  <a href="#roadmap">Roadmap</a>
+</p>---
 
-Dex Player is a modern local music player focused on simplicity, personalization and a clean listening experience.
+## About
 
-Built with Kotlin and Jetpack Compose, Dex Player combines Material 3 Expressive, adaptive colors and a minimalist interface designed around the user's music library.
+Dex Player is a modern local music player for Android, designed around simplicity, personalization and a clean listening experience.
 
----
+The application combines Material 3 Expressive, adaptive colors and a minimalist interface while keeping the focus on your music.
 
-Table of Contents
+Dex Player is primarily designed for local music playback, providing tools to browse your library, create playlists and enjoy lyrics both online and offline.
 
-- "About" (#about)
-- "Features" (#features)
-- "Screenshots" (#screenshots)
-- "Technology" (#technology)
-- "Design" (#design)
-- "Development" (#development)
-- "Roadmap" (#roadmap)
-- "License" (#license)
-- "Developer" (#developer)
-
----
-
-About
-
-Dex Player is designed primarily for local music playback, providing a simple and modern way to browse, organize and listen to music stored on your Android device.
-
-The project focuses on keeping the interface clean while still taking advantage of modern Android design patterns.
-
-Highlights
-
-- Local music playback
-- Music library
-- Playlists
-- Online lyrics
-- Offline lyrics
-- Adaptive colors
-- Material 3 Expressive design
-- Minimalist interface
-- Background playback
-- Album artwork
+«Designed on a phone. Built from scratch.»
 
 ---
 
-Features
+## Features
 
-Music Library
+## Music Library
 
-Browse and organize music stored locally on your device.
+Manage and explore the music stored on your device.
 
+- Local music discovery
 - Artists
 - Albums
 - Songs
 - Album artwork
-- Local music discovery
+- Library organization
 
-Player
+## Music Player
 
-A simple player designed to keep the music at the center of the experience.
+A simple player focused on the listening experience.
 
-- Play / pause
-- Previous / next track
-- Queue
+- Play / Pause
+- Previous / Next
+- Queue management
 - Background playback
 - Media controls
 - Album artwork
 
-Lyrics
+## Lyrics
 
-Dex Player supports both online and offline lyrics.
+Lyrics can be accessed both online and offline.
 
 - Online lyrics
 - Offline lyrics
 - Local lyrics support
 
-Playlists
+## Playlists
 
 Create and manage your own music collections.
 
-- Custom playlists
+- Create playlists
 - Add and remove tracks
-- Playlist-based playback
+- Playlist playback
+- Custom music collections
+
+## Interface
+
+Dex Player follows a minimalist and expressive design language.
+
+- Material 3 Expressive
+- Adaptive colors
+- Dynamic UI elements
+- Dark mode
+- Smooth animations
+- Minimalist interface
 
 ---
 
-Screenshots
-
-«Screenshots will be added soon.»
-
-<!-- Add screenshots here
+## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="220">
-  <img src="screenshots/library.png" width="220">
-  <img src="screenshots/player.png" width="220">
-  <img src="screenshots/lyrics.png" width="220">
-</p>
+  <img src="screenshots/home.png" width="220" alt="Dex Player Home">
+  <img src="screenshots/library.png" width="220" alt="Dex Player Library">
+  <img src="screenshots/player.png" width="220" alt="Dex Player Player">
+  <img src="screenshots/lyrics.png" width="220" alt="Dex Player Lyrics">
+</p>«Screenshots are subject to change while Dex Player is under development.»
 
--->---
+---
 
-Technology
+## Technology
 
 Dex Player is built using modern Android development technologies.
 
-Technology| Usage
+Technology| Purpose
 Kotlin| Main programming language
-Jetpack Compose| UI development
+Jetpack Compose| User interface
 Material 3 Expressive| Design system
 AndroidX| Android components
 MediaStore| Local music discovery
@@ -113,31 +102,39 @@ Android Media APIs| Audio playback
 
 ---
 
-Design
+## Design
 
-Dex Player follows a simple design philosophy:
+Dex Player is built around three main ideas:
 
-«Minimal, expressive and adaptive.»
+Minimal
 
-The interface is based on Material 3 Expressive, while adaptive colors help the application feel more integrated with the user's device.
+The interface avoids unnecessary elements and keeps the focus on the music.
 
-The goal is not to overload the player with unnecessary elements, but to make the music library and playback experience feel natural and easy to use.
+Expressive
+
+Material 3 Expressive provides the foundation for the application's components, motion and visual language.
+
+Adaptive
+
+Colors and visual elements adapt to create a more personalized experience across different devices.
 
 ---
 
-Development
+## Development
 
 Dex Player was designed and developed entirely from a mobile device.
 
 The project is an experiment in mobile-first Android development, using Kotlin and Jetpack Compose without relying on a traditional desktop development environment for the core development workflow.
 
+From the initial interface concepts to implementation and testing, Dex Player was created with a mobile development workflow.
+
 «Designed on a phone. Built from scratch.»
 
 ---
 
-Roadmap
+## Roadmap
 
-Dex Player is currently under development.
+Dex Player is currently under active development.
 
 Completed
 
@@ -147,15 +144,16 @@ Completed
 - [x] Online lyrics
 - [x] Offline lyrics
 - [x] Adaptive colors
-- [x] Material 3 based interface
+- [x] Material 3 interface
 - [x] Background playback
+- [x] Album artwork
 
-Planned
+## Planned
 
 - [ ] Improved playlist management
-- [ ] Improved lyrics synchronization
-- [ ] Library filtering
-- [ ] Search improvements
+- [ ] Better lyrics synchronization
+- [ ] Library search
+- [ ] Advanced library filters
 - [ ] More customization options
 - [ ] Settings
 - [ ] Additional Material 3 Expressive components
@@ -163,19 +161,29 @@ Planned
 
 ---
 
-Project Status
+## Project Status
 
-Dex Player is currently in active development.
+«Dex Player is currently in development.»
 
-Features, UI elements and internal architecture may change as development continues.
+The application is continuously evolving, so features, design elements and internal architecture may change during development.
 
 ---
 
-License
+## License
 
 Dex Player is closed-source software.
 
-The source code, assets, designs and other original content of this project may not be copied, modified, redistributed, republished or used in other projects without explicit permission from the author.
+The source code, assets, designs and other original content contained in this repository are proprietary to the author.
+
+You may not:
+
+- Copy the source code
+- Modify or redistribute the project
+- Republish the application or its assets
+- Use the source code in another project
+- Sell or commercially distribute any part of the project
+
+without explicit permission from the author.
 
 All rights reserved.
 
@@ -183,16 +191,16 @@ All rights reserved.
 
 ---
 
-Developer
-
-Dex
-
-GitHub: "@dexvoid-git" (https://github.com/dexvoid-git)
-
----
+## Developer
 
 <p align="center">
-  <sub>Made with Kotlin & Jetpack Compose.</sub>
-</p><p align="center">
-  <sub>Designed on a phone. Built from scratch.</sub>
+  <strong>Dex</strong>
+  <br>
+  <a href="https://github.com/dexvoid-git">@dexvoid-git</a>
+</p>---
+
+<p align="center">
+  Made with Kotlin & Jetpack Compose.
+  <br><br>
+  <i>Designed on a phone. Built from scratch.</i>
 </p>
