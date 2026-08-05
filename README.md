@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/dex-player-logo.png" width="128" alt="Dex Player">
+  <img src="Assets/dex-player-logo.png" width="160" alt="Dex Player">
 </p>
 
 <h1 align="center">Dex Player</h1>
@@ -75,12 +75,14 @@ A clean interface built around Material 3 Expressive.
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/home.png" width="210" alt="Home" style="margin: 5px;">
-  <img src="screenshots/library.png" width="210" alt="Library" style="margin: 5px;">
-  <img src="screenshots/player.png" width="210" alt="Player" style="margin: 5px;">
-  <img src="screenshots/lyrics.png" width="210" alt="Lyrics" style="margin: 5px;">
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%"><img src="screenshots/home.png" alt="Home" width="100%"></td>
+    <td align="center" width="25%"><img src="screenshots/library.png" alt="Library" width="100%"></td>
+    <td align="center" width="25%"><img src="screenshots/player.png" alt="Player" width="100%"></td>
+    <td align="center" width="25%"><img src="screenshots/lyrics.png" alt="Lyrics" width="100%"></td>
+  </tr>
+</table>
 
 ---
 
