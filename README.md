@@ -45,39 +45,56 @@ The app combines Material 3 Expressive, adaptive colors, and a minimalist interf
 - Queue management
 - Background playback
 - Media controls
+- Crossfade Effects
+- Internal Equalizer
 
 📝 Lyrics
 
 - Online lyrics
 - Offline ".lrc" support
 - Local lyrics loading
+- Syllable animations
 
 📂 Playlists
 
 - Create playlists
 - Add and remove tracks
 - Playlist playback
+- Edit playlist
+- Export // Import playlist
 
 🎨 Interface
 
 - Material 3 Expressive
+- Real blur in-app
 - Dynamic/adaptive colors
-- Dark mode
+- Solid Themes (No Dynamic)
+- Dark // Light Themes 
 - Smooth animations
 - Minimalist design
+
+👾 Personalizations
+
+- Default // Alternative Player Design
+- App Font Picker
+- Blur activable
+- Seekbar customization
+- Text customization
+Others...
 
 ---
 
 # Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" alt="Home" width="23%">
-  <img src="screenshots/library.png" alt="Library" width="23%">
-  <img src="screenshots/player.png" alt="Player" width="23%">
-  <img src="screenshots/lyrics.png" alt="Lyrics" width="23%">
+  <img src="screenshots/home.png" alt="Home" width="50%">
+  <img src="screenshots/library.png" alt="Library" width="50%">
+  <img src="screenshots/player.png" alt="Player" width="50%">
+  <img src="screenshots/lyrics.png" alt="Lyrics" width="50%">
+  <img src="screenshots/settings.png" alt="Settings" width="50%">
 </p><p align="center">
-  <em>Home • Library • Player • Lyrics</em>
-</p>---
+  <em>Home • Library • Player • Lyrics • Settings</em>
+</p>
 
 # Technology
 
@@ -95,9 +112,10 @@ Android Media APIs| Audio playback
 
 Dex Player follows three core principles:
 
-- Minimal — focus on the music, not the interface.
-- Expressive — modern Material 3 motion and visual language.
-- Adaptive — colors and surfaces adapt to the content and device.
+- Minimalist — Focust on Music but with a beautiful design 
+- Expressive — Modern Material 3 motion and visual language.
+- Adaptive — Colors and surfaces adapt to the content and device.
+- Frosted Glass - A beautiful frosted glass (blur) in-app 
 
 ---
 
@@ -123,15 +141,16 @@ The project explores a mobile-first Android development workflow, using Kotlin a
 - [x] Material 3 interface
 - [x] Background playback
 - [x] Album artwork support
+- [x] A hibryd design language
+- [x] Accurated Crossfade
+- [x] Personalizations logic's 
+- [x] A lot of things!!
 
 ⏳ Planned
 
-- [ ] Improved playlist management
+- [ ] Improved albums management
 - [ ] Better lyrics synchronization
-- [ ] Library search
-- [ ] Advanced library filters
 - [ ] More customization options
-- [ ] Additional Material 3 components
 - [ ] Performance improvements
 
 ---
@@ -151,7 +170,7 @@ The source code, assets, designs, and all original content in this repository ar
 You may not copy, modify, redistribute, republish, sell, or use any part of this project without explicit written permission.
 
 All rights reserved.
-© 2026 Dex
+© 2026 DexVoid_git
 
 ---
 
